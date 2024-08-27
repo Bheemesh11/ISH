@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SSN-SERVICE-PROVIDER
+server:
+  port: 9092
