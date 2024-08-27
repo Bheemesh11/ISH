@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: AdminServer
+
+#Embeded Tomcat Server Port
+server:
+  port: 9090
