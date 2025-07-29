@@ -8,7 +8,6 @@ This repository contains a microservices-based system incorporating multiple ser
 
 ### Core Services 
 
-
 1. **EurekaServer**
    - Service Registry and Discovery
    - URL: `http://localhost:8761`
