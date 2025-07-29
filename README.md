@@ -6,7 +6,8 @@ This repository contains a microservices-based system incorporating multiple ser
 
 ## Services
 
-### Core Services
+### Core Services 
+
 
 1. **EurekaServer**
    - Service Registry and Discovery
